@@ -1,0 +1,9 @@
+application web : front end : seen (React)
+backend : server , database , API
+
+server :=> express js == mongoose ==> database (MongoDB)
+
+routes = endpoints : representation of how servers handle client requests (API)
+
+
+API ===consumed===> front
